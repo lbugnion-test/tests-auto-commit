@@ -16,7 +16,7 @@ GitHub: LBugnion
 
 ## Short description
 
-This is a test again and another change
+This is a test again. I remove one change and add something
 
 > Please keep to about 25 words maximum.
 
